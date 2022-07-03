@@ -1,4 +1,3 @@
-
 # Título
 ZGR – Zabbix Graphics Reports 
 
@@ -26,7 +25,6 @@ O Zabbix é um software livre de monitoramento de redes, sua interface não ofer
 Desenvolver uma ferramenta web que utilize a API do Zabbix para gerar relatórios gráficos do histórico de falhas das redes monitoradas, utilizando apenas requisições do tipo GET. Polo(s)
 Osasco, Sorocaba, Marília Orientador do PI
 Salvador Falcón Canillas
-
 
 
 # Como compilar o programa
